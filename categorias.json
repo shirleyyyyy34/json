@@ -1,0 +1,25 @@
+[{
+"id": "Chuches",
+"Foto": "chuches.jpg"
+},
+{
+"id": "Cereales",
+"Foto": "cereales.jpg"
+},
+{
+"id": "Legumbres",
+"Foto": "legumbre.png"
+},
+{
+"id": "Lácteos",
+"Foto": "leche.jpg"
+},
+{
+"id": "Pastas",
+"Foto": "pasta.jpg"
+},
+{
+"id": "Aceites",
+"Foto": "aceite.jpg"
+}
+]
