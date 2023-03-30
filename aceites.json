@@ -1,16 +1,17 @@
+
 [{
-"id": "Aceite de oliva virgen extra",
-"Foto": "aceitedeoliva-removebg-preview.png"
-"Descripción": "Aceite de oliva virgen extra de La Española, no tiene fecha de caducidad."
-},
-{
-"id": "Aceite de girasol",
-"Foto": "aceite de girasol_preview_rev_1.png"
-"Descripción": "Aceite de girasol de El Corte Inglés, no tiene fecha de caducidad."
-},
-{
-"id": "Aceite de girasol",
-"Foto": "aceite_de_girasol_2-removebg-preview.png"
-"Descripción": "Aceite de girasol de la marca Abril, no tiene fecha de caducidad."
-}
+		"id": "Aceite de oliva virgen extra",
+		"Foto": "aceitedeoliva-removebg-preview.png",
+		"Descripción": "Aceite de oliva virgen extra de La Española, no tiene fecha de caducidad."
+	},
+	{
+		"id": "Aceite de girasol",
+		"Foto": "aceite de girasol_preview_rev_1.png",
+		"Descripción": "Aceite de girasol de El Corte Inglés, no tiene fecha de caducidad."
+	},
+	{
+		"id": "Aceite de girasol",
+		"Foto": "aceite_de_girasol_2-removebg-preview.png",
+		"Descripción": "Aceite de girasol de la marca Abril, no tiene fecha de caducidad."
+	}
 ]
